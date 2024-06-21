@@ -1,0 +1,4 @@
+2024-06-20 17:24:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "COMPRA" no encontrada
+Table "COMPRA" not found; SQL statement:
+SELECT * FROM compra [42102-197]
